@@ -21,9 +21,9 @@ sections:
         class: btn-light
 
   - type: services.html
-    section_id: services
-    #background_style: bg-info
-    title: Our purpose
+    section_id: purposes
+    background_style: bg-white
+    title: Our purposes
     services:
       - title: 
         text: Actively promote and lead a co-operative environment with regards to technology, technical practices, and technical documentation, with a view to reducing waste and barriers to entry in the Industry, and ultimately reducing costs for the Australian public;
@@ -35,116 +35,31 @@ sections:
         text: Develop and approve technical standards and codes of practice for the Industry;
         icon: fa-laptop-code
       - title: 
-        text: coordinate the rapid selection and adoption of the Open Source Software Technologies with the most technical merit amongst Members and the Industry, with a view to ensuring a population of skilled workers in that technology
+        text: Coordinate the rapid selection and adoption of the Open Source Software Technologies with the most technical merit amongst Members and the Industry, with a view to ensuring a population of skilled workers in that technology
         icon: fa-heart
       - title: 
         text: Be an information resource to its Members and to Industry, the federal and state governments and agencies, local governments and other interested parties.
         icon: fa-heart
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Membership
-        text: This is the membership text
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#contacts'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
-
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
-
-  - type: members.html
-    section_id: members
-    title: Mission
-    background_style: bg-info text-white
-    members:
-      - title: actively promote and lead a co-operative environment with regards to technology, technical practices, and technical documentation, with a view to reducing waste and barriers to entry in the Industry, and ultimately reducing costs for the Australian public;
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
-
-  - type: timeline.html
-    section_id: timeline
-    title: Major Achievements!
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          2017-2018
-          **Humble Beginnings**
-        text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
-
   - type: contact.html
-    section_id: contacts
-    title: Let's Get In Touch!
+    section_id: join
+    background_style: bg-primary
+    title: Join ASDIA
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      To apply to join, either as an organisation or an individual, please email
+      enquiries@asdia.org.au with a statement that you wish to become a member
+      (and if you are joining as an organisation, which organisation, and that you
+      are acting as an authorised representative of an organisation),
+      that you support the purposes of the organisation, and you agree to comply with
+      the rules of the organisation. You must digitally sign the application -
+      either by including text such as "Signed by &lt;your name&gt;", including an
+      image of your signature, or cryptographically signing the message.
+      
+      There is currently no joining or membership fee.
     actions:
-    - title: +1 (202) 555-014
-      icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
+      url: mailto:enquiries@asdia.org.au
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
