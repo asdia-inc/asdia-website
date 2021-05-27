@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: ASDIA
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+        Australian Software Development Industry Association
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -14,36 +13,32 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: Mission Statement
+    text: Promoting a better Australian tech industry, where companies can achieve more in the same amount of time, and everyone knows the best technologies.
     actions:
       - title: Get Started!
-        url: '#page-top'
+        url: '#services'
         class: btn-light
 
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: Our purpose
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: 
+        text: Actively promote and lead a co-operative environment with regards to technology, technical practices, and technical documentation, with a view to reducing waste and barriers to entry in the Industry, and ultimately reducing costs for the Australian public;
         icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+      - title: 
+        text: Advance the interests of Members and the Industry;
         icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+      - title: 
+        text: Develop and approve technical standards and codes of practice for the Industry;
         icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
+      - title: 
+        text: coordinate the rapid selection and adoption of the Open Source Software Technologies with the most technical merit amongst Members and the Industry, with a view to ensuring a population of skilled workers in that technology
         icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
+      - title: 
+        text: Be an information resource to its Members and to Industry, the federal and state governments and agencies, local governments and other interested parties.
         icon: fa-heart
 
   - type: portfolio.html
@@ -51,13 +46,13 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Membership
+        text: This is the membership text
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '#'
+        url: '#contacts'
       - title: Project 2
         text: This is a very short project description.
         icon: 2.jpg
@@ -89,10 +84,10 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: Mission
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
+      - title: actively promote and lead a co-operative environment with regards to technology, technical practices, and technical documentation, with a view to reducing waste and barriers to entry in the Industry, and ultimately reducing costs for the Australian public;
         text: Singer and Songwriter
         image: assets/img/members/person1.jpg
         url: '#'
