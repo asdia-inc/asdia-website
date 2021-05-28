@@ -64,9 +64,9 @@ sections:
       icon: fa-twitter
       icon_type: fab
       url: '#'
-    - title: Facebook
-      icon: fa-facebook
+    - title: LinkedIn
+      icon: fa-linkedin-in
       icon_type: fab
-      url: '#'
+      url: 'https://www.linkedin.com/company/australian-software-development-industry-association/'
 
 ---
