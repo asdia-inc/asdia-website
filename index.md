@@ -60,10 +60,10 @@ sections:
     - title: E-Mail
       icon: fa-envelope
       url: mailto:enquiries@asdia.org.au
-    - title: Twitter
-      icon: fa-twitter
+    - title: Slack
+      icon: fa-slack
       icon_type: fab
-      url: '#'
+      url: 'https://join.slack.com/t/asdia/shared_invite/zt-qystgav6-734_O7htGblYzZbTSjYf0A'
     - title: LinkedIn
       icon: fa-linkedin-in
       icon_type: fab
