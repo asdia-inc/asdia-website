@@ -7,7 +7,9 @@ header:
   url: /#about
 - title: Our purposes
   url: /#purposes
-- title: Membership
+- title: Contact us
+  url: /#contact
+- title: Join
   url: /#join
 - title: Publications
   url: /publications

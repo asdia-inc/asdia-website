@@ -42,6 +42,26 @@ sections:
         icon: fa-book-open
 
   - type: contact.html
+    section_id: contact
+    background_style: bg-primary
+    title: Contact Us
+    text: >-
+      Please feel free to contact us if you have any questions. You can use the link below to join the discussion
+      on Slack.
+    actions:
+    - title: E-Mail
+      icon: fa-envelope
+      url: mailto:enquiries@asdia.org.au
+    - title: Slack
+      icon: fa-slack
+      icon_type: fab
+      url: 'https://join.slack.com/t/asdia/shared_invite/zt-qystgav6-734_O7htGblYzZbTSjYf0A'
+    - title: LinkedIn
+      icon: fa-linkedin-in
+      icon_type: fab
+      url: 'https://www.linkedin.com/company/australian-software-development-industry-association/'
+
+  - type: contact.html
     section_id: join
     background_style: bg-primary
     title: Join ASDIA
@@ -60,13 +80,5 @@ sections:
     - title: E-Mail
       icon: fa-envelope
       url: mailto:enquiries@asdia.org.au
-    - title: Slack
-      icon: fa-slack
-      icon_type: fab
-      url: 'https://join.slack.com/t/asdia/shared_invite/zt-qystgav6-734_O7htGblYzZbTSjYf0A'
-    - title: LinkedIn
-      icon: fa-linkedin-in
-      icon_type: fab
-      url: 'https://www.linkedin.com/company/australian-software-development-industry-association/'
 
 ---
