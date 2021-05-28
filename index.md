@@ -26,20 +26,20 @@ sections:
     title: Our purposes
     services:
       - title: 
-        text: Actively promote and lead a co-operative environment with regards to technology, technical practices, and technical documentation, with a view to reducing waste and barriers to entry in the Industry, and ultimately reducing costs for the Australian public;
-        icon: fa-gem text-info
+        text: Actively promote and lead a co-operative environment with regards to technology, technical practices, and technical documentation, with a view to reducing waste and barriers to entry in the Industry, and ultimately reducing costs for the Australian public
+        icon: fa-users
       - title: 
-        text: Advance the interests of Members and the Industry;
-        icon: fa-paper-plane
+        text: Advance the interests of Members and the Industry
+        icon: fa-rocket
       - title: 
-        text: Develop and approve technical standards and codes of practice for the Industry;
+        text: Develop and approve technical standards and codes of practice for the Industry
         icon: fa-laptop-code
       - title: 
         text: Coordinate the rapid selection and adoption of the Open Source Software Technologies with the most technical merit amongst Members and the Industry, with a view to ensuring a population of skilled workers in that technology
-        icon: fa-heart
+        icon: fa-binoculars
       - title: 
         text: Be an information resource to its Members and to Industry, the federal and state governments and agencies, local governments and other interested parties.
-        icon: fa-heart
+        icon: fa-book-open
 
   - type: contact.html
     section_id: join
