@@ -16,8 +16,8 @@ sections:
     title: Mission Statement
     text: Promoting a better Australian tech industry, where companies can achieve more in the same amount of time, and everyone knows the best technologies.
     actions:
-      - title: Get Started!
-        url: '#services'
+      - title: Join now
+        url: '#join'
         class: btn-light
 
   - type: services.html
